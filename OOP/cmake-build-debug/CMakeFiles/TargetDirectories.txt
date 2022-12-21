@@ -1,3 +1,0 @@
-/home/akimfeopentov/CLionProjects/OOP/cmake-build-debug/CMakeFiles/untitled2.dir
-/home/akimfeopentov/CLionProjects/OOP/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/akimfeopentov/CLionProjects/OOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

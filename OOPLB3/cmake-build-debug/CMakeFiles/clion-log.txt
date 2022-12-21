@@ -1,0 +1,4 @@
+/home/akimfeopentov/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4167.35/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S "/home/akimfeopentov/Рабочий стол/OOPLB3" -B "/home/akimfeopentov/Рабочий стол/OOPLB3/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/akimfeopentov/Рабочий стол/OOPLB3/cmake-build-debug

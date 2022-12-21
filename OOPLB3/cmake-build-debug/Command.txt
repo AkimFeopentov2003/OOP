@@ -1,0 +1,6 @@
+Down: s
+UP: w
+Left: a
+Right: d
+Esc: l
+pause: p
